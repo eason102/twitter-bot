@@ -69,14 +69,14 @@ def basic(watcher, webhook_url):
 
 
 def liyuu():
-    url = 'https://discord.com/api/webhooks/965444159626440725/-15rZya-frNtT3Og63EiZT_frfAWrgEtlfXDMujbBfKXqN96fwOmDuASu8x-S604fmcf'
+    url = 'your_webhook_url'
     basic('Liyu0109', url)
 
 def hand():
-    url = 'https://discord.com/api/webhooks/966666502440878151/RmPzUaRKA2ONcDMgaUZWMf9Y9fTMeC4zHjaXmSe2ZdeCHHHsm33vuyiXPRs3KmhSVBX5'
+    url = 'your_webhook_url'
     basic('homoto_akina',url)
 def neko():
-    url = 'https://discord.com/api/webhooks/967078779212165150/Ubzrv15z2YLS8l_TCrURSEKsE495WJ40wdJQyMYYnVW_UEF51Es9X56JPwybD6yKDj5z'
+    url = 'your_webhook_url'
     basic('95rn16',url)
 
 
